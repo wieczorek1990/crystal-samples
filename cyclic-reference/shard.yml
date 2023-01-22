@@ -1,0 +1,10 @@
+name: cyclic-reference
+version: 0.1.0
+
+authors:
+  - Łukasz Wieczorek <wieczorek1990@gmail.com>
+
+description: |
+  Cyclic reference in Crystal
+
+license: MIT
